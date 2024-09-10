@@ -11,3 +11,8 @@ circumstances, house prices will specifically be used as a benchmark for compari
 We added new variables to the local dataset in order to examine the relationship
 between these variables and the sale price. We came to a conclusion that our model is
 more efficient to predict the price of the house compare to any other model.
+
+
+#link#
+
+https://colab.research.google.com/drive/1XmLgxHr95z41D6t-SP0sFGSXgo0lJeKD?usp=sharing
